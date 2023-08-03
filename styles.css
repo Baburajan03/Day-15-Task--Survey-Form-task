@@ -1,0 +1,17 @@
+table {
+    justify-content: center;
+    text-align: center;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: center;
+  }
+
+  th {
+    background-color: #dcedee;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
